@@ -1,7 +1,10 @@
 import cs1.SimpleURLReader;
-
 import java.util.ArrayList;
-
+/**
+ * A Class that access the URL, find the file name and CSS links
+ * @author Miray Ayerdem
+ * @version 18/10/2020
+ */
 public class MySimpleURLReader extends SimpleURLReader {
     //variables
     String url;
