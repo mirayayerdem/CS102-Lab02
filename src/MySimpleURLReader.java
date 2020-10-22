@@ -6,7 +6,7 @@ import java.util.ArrayList;
  * @version 18/10/2020
  */
 public class MySimpleURLReader extends SimpleURLReader {
-    //variables
+    
     String url;
     String name;
 
